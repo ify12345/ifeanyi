@@ -2,4 +2,6 @@ body{
     background: red;
     border-color: blue;
     color: indigo;
+    border-block-start-color: aliceblue;
+    grid-template-columns: repeat();
 }
